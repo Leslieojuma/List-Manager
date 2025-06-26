@@ -17,4 +17,6 @@ This is a simple and interactive web app that lets you manage guests for an even
 - Edit guest names inline
 
 ##  Project Structure
+-The header has the css link 
+-The body compose of h1 , h2, div and a form
 
